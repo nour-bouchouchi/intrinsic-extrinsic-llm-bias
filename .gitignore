@@ -1,0 +1,6 @@
+results/
+models_sft/
+src/notebooks/
+src/experiments/__pycache__/
+src/models/__pycache__/
+src/training/__pycache__/
