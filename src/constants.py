@@ -15,7 +15,7 @@ PERSON = {
 
 # Entities for each concept.
 CONCEPTS = {
-    "professions": ['secretary','librarian','nurse'],#'teacher','editor','veterinarian','pharmacist','artist','cook','manager','butcher','programmer','firefighter','electrician'],
+    "professions": ['secretary','librarian','nurse','teacher','editor','veterinarian','pharmacist','artist','cook','manager','butcher','programmer','firefighter','electrician'],
     "colors": ["red","blue","yellow","green","orange","purple","pink","brown","black","white","gray"],
     "months": ["January","February","March","April","May","June","July","August","September","October","November","December"],
     "languages": ["French", "German","Italian","Spanish","Portuguese", "Greek", "Dutch","Swedish","Norwegian","Danish","Finnish"],
